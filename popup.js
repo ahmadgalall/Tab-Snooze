@@ -14,7 +14,7 @@ function getSmartSnoozeOptions() {
     text: 'Snooze for 10 minutes',
     hours: 0.17
   });
-//thisis a comment
+//thisis a comment New featureeee
   options.push({
     id: 'snooze1hour',
     text: 'Snooze for 1 hour',
